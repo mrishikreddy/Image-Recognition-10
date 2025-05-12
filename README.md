@@ -2,6 +2,8 @@
 
 Welcome to the **MNIST Digit Recognition** project, a Python-based deep learning application that uses a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset. This project demonstrates image preprocessing, CNN model building, training, and evaluation using TensorFlow and Keras. It's an excellent resource for learning computer vision and deep learning fundamentals.
 
+[Visit Live Project](https://colab.research.google.com/drive/1x16UtBAVfhaJ9jdP8C6Izy38jYsCTVZu?usp=sharing)
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
