@@ -24,7 +24,7 @@ To set up the **MNIST Digit Recognition** project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/mnist-digit-recognition.git
+   git clone https://github.com/mrishikreddy/Image-Recognition-10.git
    cd mnist-digit-recognition
    ```
 
